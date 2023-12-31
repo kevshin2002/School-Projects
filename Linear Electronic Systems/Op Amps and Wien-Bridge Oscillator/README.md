@@ -1,0 +1,2 @@
+# Wien Bridge Oscillator and Nyquist Plot
+In this lab, we utilize nyquist plot to realize the stability of our previous lab circuits. We also use the Nyquist plot on the Wien Bridge while seeing that diodes in different regions give the same output.
