@@ -8,6 +8,7 @@ Due to academic integrity, I can not post my full lab report on here. All analyt
 - Cruise Control 
 - Nutrient System
 - Op-Amp Voltage Follower Circuit
+- GPS System
 - Control Vehicle Steering
 
 ## Pendulum Systems
