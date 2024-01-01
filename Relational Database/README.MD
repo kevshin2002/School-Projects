@@ -121,7 +121,7 @@ Example:
 | Data          | 7           | 82025960       |
 | Data          | 8           | 82025960       |
 +---------------+-------------+----------------+
-9 rows in set (2.687606 sec)
+9 rows in set (0.00687606 sec)
 ```
 Type :
 - Meta : Index Block with indices pointing to all the other blocks
