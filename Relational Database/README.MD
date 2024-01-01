@@ -1,6 +1,8 @@
 # Relational Database
 This project was made for ECE 141B Spring 2023 with Professor Rick Gessner but redone independently of the class.
 
+As it is currently a work in progress, please refer to the [Relational Database](https://github.com/kevshin2002/Relational-Database) repository.
+
 ## Work in Progress
 - Select Command
 - Update Command
