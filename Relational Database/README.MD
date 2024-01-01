@@ -231,10 +231,22 @@ To see the developer who coded this MySQL Mock Database, type about;
 about;
 ```
 
+Example:
+```bash
+about;
+Authors: Kevin Shin (0.000199 sec)
+```
+
 #### Version
 To see what version the database is currently on, type version;
 ```bash
 verison;
+```
+
+Example:
+```bash
+version;
+Version: 0.1 (0.000158 sec)
 ```
 
 #### Help
@@ -243,6 +255,18 @@ To get the list of currently supported commands, you can type help;
 help;
 ```
 
+Example:
+```bash
+ help;
+create database {name} : make a new database in storage folder
+drop database {name}   : delete a known database from storage folder
+show databases         : list databases in storage folder
+use database {name}    : load a known database for use
+about                  : show members
+help                   : show list of commands
+quit                   : stop app
+version                : show app version (0.000279 sec)
+```
 #### Quit
 To quit the database, you can type quit;
 ```bash
