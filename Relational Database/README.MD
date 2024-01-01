@@ -1,6 +1,15 @@
 # Relational Database
 This project was made for ECE 141B Spring 2023 with Professor Rick Gessner but redone independently of the class.
 
+## Work in Progress
+### Select Command
+### Update Command
+
+## Future Features
+### Left/Right Join
+### Indexing
+### Caching
+
 ## Commands
 All commands will be followed by how long each command took beginning from tokenization to execution. The speed is dependent on your computer.
 
