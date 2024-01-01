@@ -1,5 +1,5 @@
 # Linear Regression in ARMv8
-This project was made during in ECE 30 for Spring 2021. 
+This project was made during in ECE 30 taught by Professor Mingu Kang for Spring 2021. 
 
 ## Project Description
 We were tasked to write a program that implements a linear regression on a 2D list of points. The program used stochastic gradient descent (SGD) to learn a line that passes through the maximum number of points as possible. There were two major components in this project:

@@ -1,5 +1,5 @@
 # Linear Electronic Systems
-These were the labs part of the ECE 100 course at UCSD. 
+These were the labs part of the ECE 100 course at UCSD taught by Professor Drew Hall for Spring 2023.
 
 Due to academic integrity, I can not post my full lab report on here. All analytical work can not be shown as well as it includes derivations. As such, only simulations and results will be shown. For the full lab report, please inquire at kevshin2002@gmail.com
 
