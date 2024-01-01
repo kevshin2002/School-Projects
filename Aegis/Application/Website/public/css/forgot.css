@@ -1,0 +1,87 @@
+/* Reset default margin and padding */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Apply box-sizing border-box to all elements */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.4;
+  background-color: #f7f7f7;
+  color: #333;
+}
+
+/* Header styles */
+
+
+h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-top: 2rem;
+}
+
+/* Main styles */
+main {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Form styles */
+.login-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form_row {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1rem;
+}
+
+.form_row input[type="text"],
+.form_row input[type="password"],
+.form_row input[type="submit"] {
+  border: none;
+  border-radius: 0.25rem;
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+.form_row input[type="text"],
+.form_row input[type="password"] {
+  background-color: #f7f7f7;
+  margin-bottom: 0.5rem;
+}
+
+.form_row input[type="submit"] {
+  background-color: #3B82F6; /* Dark blue */
+  color: #fff;
+  cursor: pointer;
+}
+
+.form_row input[type="submit"]:hover {
+  background-color: #1D4ED8; /* Dark blue */
+  color: #fff;
+  cursor: pointer;
+}
+
+
+
+
+/* Result styles */
+#result {
+  margin-top: 1rem;
+  font-size: 0.8rem;
+}
